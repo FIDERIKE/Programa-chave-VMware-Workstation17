@@ -2,6 +2,6 @@
 
 
 
-<a href="https://www.exemplo.com">
-    <img src="![downloadbjpg](https://github.com/user-attachments/assets/b519282f-771f-4311-9148-38d98d8669ad)" 
+<a href="https://www.exemplo.com" target="_blank">
+    <img src="https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/downloadbjpg.jpg" alt="Descrição da Imagem">
 </a>
