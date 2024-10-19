@@ -6,4 +6,4 @@
     <img src="https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/downloadbjpg.jpg" alt="Descrição da Imagem">
 </a>
 
-<p style="font-size: 20px;">Texto com tamanho de fonte maior.</p>
+<p style="font-size: 50px;">Texto com tamanho de fonte maior.</p>
