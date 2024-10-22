@@ -6,10 +6,11 @@
     <title>Imagens Empilhadas</title>
     <style>
         .img-link {
-            display: block; /* Faz com que a imagem ocupe toda a largura disponível */
-            margin: 5px 0; /* Ajusta a margem superior e inferior para reduzir o espaço entre as imagens */
-            max-width: 100%; /* Garante que a imagem não exceda a largura do contêiner */
-            height: auto; /* Mantém a proporção da imagem */
+            display: block; /
+            margin: 0; /
+            padding: 0; / 
+            max-width: 100%; /
+            height: auto; /
         }
     </style>
 </head>
