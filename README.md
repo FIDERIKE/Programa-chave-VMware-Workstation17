@@ -16,7 +16,7 @@ Para instalar o VMware Workstation 17, siga os passos abaixo:
 ## 💾 Chaves de Licença
 As chaves de licença estão disponíveis [neste arquivo](https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/LicenseKeys_VMwareWorkstationPro17).
 
-[![Chaves de Licença do VMware Workstation Pro 17](https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/imagemativação.png)](https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/LicenseKeys_VMwareWorkstationPro17)
+[![Chaves de Licença do VMware Workstation Pro 17](https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/IMG_3130.jpeg   )](https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/LicenseKeys_VMwareWorkstationPro17)
 
 ## 🤝 Contribuindo
 Contribuições são bem-vindas! Se você deseja adicionar algo ao projeto, siga estas etapas:
